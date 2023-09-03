@@ -1,0 +1,4 @@
+# CryptoTradingBot
+
+**TODO: Add description**
+
