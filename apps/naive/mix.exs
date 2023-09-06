@@ -26,7 +26,7 @@ defmodule Naive.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      {:binance, "~> 2.0"},
+      {:binance, "~> 1.0"},
       {:decimal, "~> 2.1"},
       {:streamer, in_umbrella: true}
     ]
